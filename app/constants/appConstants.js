@@ -1,0 +1,8 @@
+module.exports = {
+	GITHUB_USER_BIO: "GITHUB_USER_BIO",
+	GITHUB_USER_REPOS: "GITHUB_USER_REPOS",
+	GITHUB_CHANGE_USER: "GITHUB_CHANGE_USER",
+	FIREBASE_HOST: "https://shdavies-github-note.firebaseio.com",
+	ADD_NOTE: "ADD_NOTE",
+	CHANGE_USER: "CHANGE_USER"
+};
